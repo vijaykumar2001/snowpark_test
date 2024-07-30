@@ -1,0 +1,1 @@
+SELECT * FROM temp_mo_inventory WHERE DEAL_ID = 11868;
