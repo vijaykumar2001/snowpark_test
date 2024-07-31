@@ -11,7 +11,7 @@ import csv
 import time
 import dateutil.relativedelta
 
-deal_id = '12025'
+deal_id = 'dealid'
  
 def intersection(l1, l2):
     return list(set(l1) & set(l2))
